@@ -1,0 +1,21 @@
+https://www.eatthismuch.com/
+
+allergies:
+
+egg
+fish
+
+minimun calories = 600 
+maximum calories = 6000
+
+55 diet egg
+
+55 diet fish 
+
+
+breakfast k bd wala snack,,, morning
+lunch k bd wala snack,,, afternoon
+night k bd wala snack,,, evening
+
+
+
